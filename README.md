@@ -32,9 +32,3 @@ Every green square below represents a day dedicated to logical problem solving, 
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
   <img alt="GitHub Streak Snake Graph" src="https://githubusercontent.com">
 </picture>
-
-
-
-
-
-
