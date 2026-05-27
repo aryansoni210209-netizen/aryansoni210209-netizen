@@ -14,7 +14,15 @@ I am an incoming Electronics & Communication Engineering (ECE) student with a pa
 ## 📊 My Consistency Matrix
 Every green square below represents a day dedicated to logical problem solving, debugging, and growth. 
 
-![Your GitHub Stats](https://vercel.app)
+## 💻 Tech Stack & Programming Profiles
+![C++](https://shields.io)
+![Git](https://shields.io)
+![VS Code](https://shields.io)
+
+### 🎯 Coding Platforms
+[![GeeksforGeeks](https://shields.io)](https://geeksforgeeks.org)
+[![HackerRank](https://shields.io)](https://hackerrank.com)
+
 
 
 
