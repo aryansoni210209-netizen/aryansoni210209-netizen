@@ -23,6 +23,18 @@ Every green square below represents a day dedicated to logical problem solving, 
 [![GeeksforGeeks](https://shields.io)](https://geeksforgeeks.org)
 [![HackerRank](https://shields.io)](https://hackerrank.com)
 
+## 📊 My Contribution Graph Journey
+
+⚠️ **Note:** Code every day to feed the snake!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Streak Snake Graph" src="https://githubusercontent.com">
+</picture>
+
+
+
 
 
 
