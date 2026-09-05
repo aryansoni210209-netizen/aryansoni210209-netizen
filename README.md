@@ -8,7 +8,7 @@ I am an incoming Electronics & Communication Engineering (ECE) student with a pa
 - 🎯 Goal: Bridging the gap between hardware architecture and high-level software.
 
 ## 🛠️ Tech Stack & Tools
-- **Language:** C++
+- **Language:** C++, HTML, CSS, Java Script.
 - **Environment:** Visual Studio Code, Git, GitHub Desktop
 
 ## 📊 My Consistency Matrix
