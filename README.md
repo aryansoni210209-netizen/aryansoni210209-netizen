@@ -4,7 +4,7 @@ I am an incoming Electronics & Communication Engineering (ECE) student with a pa
 
 ## 🚀 About Me
 - 📈 Fun Fact: Started my coding journey before day one of college!
-- 💻 Currently Learning: Advanced C++ and Data Structures & Algorithms (DSA).
+- 💻 Currently Learning: frontend Web devlopment and React.js.
 - 🎯 Goal: Bridging the gap between hardware architecture and high-level software.
 
 ## 🛠️ Tech Stack & Tools
@@ -23,12 +23,3 @@ Every green square below represents a day dedicated to logical problem solving, 
 [![GeeksforGeeks](https://shields.io)](https://geeksforgeeks.org)
 [![HackerRank](https://shields.io)](https://hackerrank.com)
 
-## 📊 My Contribution Graph Journey
-
-⚠️ **Note:** Code every day to feed the snake!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Streak Snake Graph" src="https://githubusercontent.com">
-</picture>
